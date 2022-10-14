@@ -125,12 +125,6 @@ POST
 
 !! ( Go to the usage section if you want to test it right away from my server )
 
-## Packages
-
-```
-> pip install "Flask[async]" flask-pydantic flask googletrans==3.1.0a0
-```
-
 ## Create a virtual environment for python
 
 ```
